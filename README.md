@@ -18,3 +18,7 @@ Simple REST API with Cassandra
       default values are used (page=0, size=5).</p>
   3) Sending messages with magic number specified in the request body:
     <br>POST /api/send -d {"magic_number":130}
+    
+### Running app in a docker container:
+To run app in a docker container enter app directory and type
+"docker-compose up".
