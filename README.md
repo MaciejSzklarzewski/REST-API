@@ -2,6 +2,14 @@
 
 Simple REST API with Cassandra
 
+Used technologies:
+
+- Spring
+- Cassandra
+- Spring Data Cassandra
+- JUnit 5
+- Rest Assurred
+
   <h3>Endpoints:<h3>
   
   1) **POST** /api/message
